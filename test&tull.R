@@ -12,3 +12,4 @@ tadda <- function(c){
 }
 
 m <- "ost"
+p  <- "paprika"
