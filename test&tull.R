@@ -13,3 +13,4 @@ tadda <- function(c){
 
 m <- "ost"
 p  <- "paprika"
+s <- "skinke"
