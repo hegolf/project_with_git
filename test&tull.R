@@ -5,3 +5,8 @@ adda <- function(x, y) {
   c = x + y
   return(c)
 }
+
+tadda <- function(c){
+  d <- c^2
+  return(d)
+}
