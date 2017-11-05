@@ -14,4 +14,8 @@ tadda <- function(c){
 m <- "ost"
 p  <- "paprika"
 s <- "skinkesen"
+<<<<<<< HEAD
 f <- "nugatti"
+=======
+n <- "nøtt"
+>>>>>>> 5de4881b7f6622cb55fe211404d76dfe82986f3d
