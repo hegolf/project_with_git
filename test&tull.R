@@ -10,3 +10,5 @@ tadda <- function(c){
   d <- c^2
   return(d)
 }
+
+m <- "ost"
